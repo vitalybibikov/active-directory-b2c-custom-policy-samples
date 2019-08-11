@@ -60,7 +60,7 @@ Add a **local.json** file or edit the **default.json** file in the **Policies\co
   },
   "iefExtensionApplication": {
     "id": "B2CExtensionsApplicationObjectId",
-    "clientId": "B2CExtensionsApplicationObjectId"
+    "clientId": "B2CExtensionsAppId"
   },
   "tenant": {
     "name": "your-tenant-name.onmicrosoft.com"
